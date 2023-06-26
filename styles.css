@@ -1,0 +1,22 @@
+@import url(styles/header.css);
+@import url(styles/banner.css);
+@import url(styles/carrossel.css);
+
+.bookklub{
+width: 80%;
+}
+
+:root {
+    --cor-de-fundo: #c7cacf;
+    --azul1: #4542e2;
+    --laranja: #eb9b00;
+    --azulclaro1:#2f4b02;
+    --branco: #ffffff;
+    --azulfundo: radial-gradient(circle at 6.81% 70.14%, #007ded 0, #0079ec 16.67%, #0074ea 33.33%, #486ee5 50%, #6968df 66.67%, #8261d7 83.33%, #965ace 100%);
+
+
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
